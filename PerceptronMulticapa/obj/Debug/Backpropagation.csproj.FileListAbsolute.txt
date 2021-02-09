@@ -1,0 +1,25 @@
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\UKFSharp-master\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.exe.config
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\UKFSharp-master\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.exe
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\UKFSharp-master\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.pdb
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\UKFSharp-master\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.Properties.Resources.resources
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\UKFSharp-master\PerceptronMulticapa\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\UKFSharp-master\PerceptronMulticapa\obj\Debug\Backpropagation.csproj.CoreCompileInputs.cache
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\UKFSharp-master\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.exe
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\UKFSharp-master\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.pdb
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\IntelligentSystem\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.exe.config
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\IntelligentSystem\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.exe
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\IntelligentSystem\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.pdb
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\IntelligentSystem\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.Properties.Resources.resources
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\IntelligentSystem\PerceptronMulticapa\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\IntelligentSystem\PerceptronMulticapa\obj\Debug\Backpropagation.csproj.CoreCompileInputs.cache
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\IntelligentSystem\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.exe
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\IntelligentSystem\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.pdb
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.exe.config
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.exe
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.pdb
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\obj\Debug\Backpropagation.csprojAssemblyReference.cache
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.Properties.Resources.resources
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\obj\Debug\Backpropagation.csproj.CoreCompileInputs.cache
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.exe
+D:\FI_Cloud\OneDrive - Universidad Autonoma de Tamaulipas\5_ArchivosCompartidos\Air Conditioner System Controllers\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.pdb
